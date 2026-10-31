@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+# CSVs written by tutorial scripts at runtime
+pandas-read-csv-guide/*.csv
+*.db
